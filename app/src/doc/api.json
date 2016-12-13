@@ -1,0 +1,96 @@
+{
+
+  //DataBean{type=0, ret=0, title=发现新奇,
+  //list=[ListBean{id=1, title='听友圈子', coverPath='http://fdfs.xmcdn.com/group9/M07/1C/8C/wKgDYlV3rd2zGc9PAAAgRAu1VLU052.png'},
+  //ListBean{id=2, title='活动', coverPath='http://fdfs.xmcdn.com/group9/M07/1C/8C/wKgDYlV3reewe4kXAAAUNfIrwHU252.png'}]}
+
+  "status": 1,
+  "discoveryColumns": {
+    "ret": 0,
+    "title": "发现新奇",
+    "list": [
+        {
+          "id": 1,
+          "title": "听友圈子",
+          "coverPath": "http://fdfs.xmcdn.com/group9/M07/1C/8C/wKgDYlV3rd2zGc9PAAAgRAu1VLU052.png"
+        },
+        {
+          "id": 2,
+          "title": "活动",
+          "coverPath": "http://fdfs.xmcdn.com/group9/M07/1C/8C/wKgDYlV3reewe4kXAAAUNfIrwHU252.png"
+        }
+    ]
+  },
+
+
+  "editorRecommendAlbums": {
+    "ret": 0,
+    "title": "小编推荐",
+    "list": [
+      {
+        "albumId": 344497,
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M02/35/45/wKgDhFTg4w_SDkc9AAT-fXngGBY184_mobile_large.jpg",
+        "title": "黑先生在麦田咖啡馆"
+      },
+      {
+        "albumId": 276377,
+        "coverLarge": "http://fdfs.xmcdn.com/group4/M09/06/1D/wKgDs1QPxnSimJX4AAGKziDw4-0778_mobile_large.jpg",
+        "title": "萤火虫日记"
+      },
+      {
+        "albumId": 418783,
+        "coverLarge": "http://fdfs.xmcdn.com/group15/M0B/4E/0D/wKgDZVWxm2bDIVD4AAS3vS-qpHs300_mobile_large.jpg",
+        "title": "舒克贝塔历险记"
+      }
+    ]
+  },
+
+  "hotRecommends": {
+    "ret": 0,
+    "title": "热门推荐",
+    "list": [
+      {
+        "title": "听新闻",
+        "contentType": "album",
+        "list": [
+          {
+            "albumId": 343042,
+            "coverLarge": "http://fdfs.xmcdn.com/group6/M0A/E0/7E/wKgDhFUc5qbjBmDbAAAps8N-LbI468_mobile_large.jpg",
+            "title": "重点关注"
+          },
+          {
+            "albumId": 325915,
+            "coverLarge": "http://fdfs.xmcdn.com/group5/M0A/3C/50/wKgDtVSzI6-T5C7cAAHrmFoQYBY342_mobile_large.jpg",
+            "title": "飞鱼晨报"
+          },
+          {
+            "albumId": 2796437,
+            "coverLarge": "http://fdfs.xmcdn.com/group16/M0A/48/E4/wKgDalWspjGQBvFFAAIJbuzw4CE107_mobile_large.jpg",
+            "title": "事实说－第二季"
+          }
+        ]
+      },
+      {
+        "title": "听小说",
+        "contentType": "album",
+        "list": [
+          {
+            "albumId": 356310,
+            "coverLarge": "http://fdfs.xmcdn.com/group6/M02/0D/43/wKgDg1UmlZjg4lIoAANVXahWnYE722_mobile_large.jpg",
+            "title": "藏地密码（紫襟演播）"
+          },
+          {
+            "albumId": 321929,
+            "coverLarge": "http://fdfs.xmcdn.com/group5/M0A/24/56/wKgDtVSqZTixQ1ZoAASujINpEJI287_mobile_large.jpg",
+            "title": "你好，旧时光"
+          },
+          {
+            "albumId": 2726607,
+            "coverLarge": "http://fdfs.xmcdn.com/group16/M00/39/4E/wKgDbFWaHzeycqj_AAYr1V5eBVU416_mobile_large.jpg",
+            "title": "权力野兽朱元璋"
+          }
+        ]
+      }
+    ]
+  }
+}

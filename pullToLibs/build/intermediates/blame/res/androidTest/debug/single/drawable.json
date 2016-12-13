@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\androidStudio\\workspace\\ViewPagerDemo\\pullToLibs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ptr_animation.xml",
+        "source": "F:\\androidStudio\\workspace\\ViewPagerDemo\\pullToLibs\\build\\intermediates\\bundles\\debug\\res\\drawable\\ptr_animation.xml"
+    },
+    {
+        "merged": "F:\\androidStudio\\workspace\\ViewPagerDemo\\pullToLibs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\androidStudio\\workspace\\ViewPagerDemo\\pullToLibs\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\androidStudio\\workspace\\ViewPagerDemo\\pullToLibs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\androidStudio\\workspace\\ViewPagerDemo\\pullToLibs\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

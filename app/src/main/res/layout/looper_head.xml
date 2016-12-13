@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!-- 放置轮播图片位置 -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/my_looperViewpager"
+            android:layout_width="match_parent"
+            android:layout_height="185dp"
+            />
+
+        <!-- 指示器的位置 -->
+        <LinearLayout
+            android:id="@+id/dots_All"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="center|bottom"
+            android:layout_marginRight="5dp"
+            android:orientation="horizontal"
+            />
+    </FrameLayout>
+
+    <com.hero.zhaoq.viewpagerdemo.view.MyGridView
+        android:id="@+id/ptr_gridView"
+        android:layout_width="match_parent"
+        android:numColumns="4"
+        android:background="#0fffff"
+        android:layout_below="@id/viewpager"
+        android:verticalSpacing="2px"
+        android:horizontalSpacing="2px"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#4a4a4a"
+        android:layout_below="@id/ptr_gridView"
+        />
+
+</RelativeLayout>
