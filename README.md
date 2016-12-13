@@ -5,3 +5,11 @@ PullToRefresh相关  demo:
 
 
   实现轮播的触摸停止事件。实现页面多布局嵌套。
+
+  CSDN：
+  
+      http://blog.csdn.net/u013233097/article/details/53619259
+      
+      http://blog.csdn.net/u013233097/article/details/53385986
+      
+      
