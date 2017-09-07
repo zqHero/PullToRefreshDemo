@@ -1,4 +1,4 @@
-1,先来无事，复习了下   PullToRefresh
+﻿1,闲来无事，复习了下   PullToRefresh
 
 
 先上效果图![：](http://img.blog.csdn.net/20161213234404515?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzIzMzA5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
